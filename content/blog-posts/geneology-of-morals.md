@@ -2,7 +2,7 @@
 title: ROLI Rebrand
 date: 2019-02-28T05:00:00+00:00
 type: blog
-author: ''
+author: Academic Project
 hero: "/images/800x650.jpg"
 
 ---
