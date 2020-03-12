@@ -6,4 +6,4 @@ author: ''
 hero: "/images/800x650.jpg"
 
 ---
-## Simple, Innovating, Futuristic — The rebranding of a music technology company ahead of its time.
+### Simple, Innovating, Futuristic — The rebranding of a music technology company ahead of its time.
