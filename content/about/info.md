@@ -9,6 +9,7 @@ contact_info:
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
   linkedin: owen-morley
+  instagram: "@ownmrly"
 type: ''
 
 ---
