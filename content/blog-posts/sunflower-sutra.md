@@ -1,9 +1,9 @@
 ---
-title: Sunflower Sutra
-date: 2019-07-16T19:17:43.000+00:00
+title: DASH User Interface Proposal
+date: 2019-04-08T00:00:43-04:00
 type: blog
 hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
-author: Allen Ginsberg
+author: Academic Project
 
 ---
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
