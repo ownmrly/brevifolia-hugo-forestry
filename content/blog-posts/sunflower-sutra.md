@@ -2,7 +2,7 @@
 title: DASH User Interface Proposal
 date: 2019-04-08T00:00:43-04:00
 type: blog
-hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+hero: "/images/Dash-thumbnail"
 author: Academic Project
 
 ---
