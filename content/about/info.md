@@ -8,6 +8,7 @@ contact_info:
   email: ownmrly@gmail.com
   twitter_url: https://twitter.com/forestryio
   github_url: https://github.com/forestryio
+  linkedin: owen-morley
 type: ''
 
 ---
