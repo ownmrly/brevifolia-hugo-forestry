@@ -17,12 +17,6 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: twitter_handle
-    type: text
-    config:
-      required: false
-    label: Twitter Handle
-    description: Enter Twitter Handle Here
   - name: email
     type: text
     config:
@@ -34,6 +28,11 @@ fields:
     config:
       required: false
     label: LinkedIn
+  - name: instagram
+    type: text
+    config:
+      required: false
+    label: Instagram
   label: contact info
   description: Enter contact info here
 pages:
