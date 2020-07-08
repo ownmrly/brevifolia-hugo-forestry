@@ -1,6 +1,6 @@
 ---
-title: DASH User Interface Proposal
-date: 2019-04-08T00:00:43-04:00
+title: DASH UI Proposal
+date: 2019-04-08T04:00:43.000+00:00
 type: blog
 hero: "/images/Dash-thumbnail"
 author: Owen Morley
